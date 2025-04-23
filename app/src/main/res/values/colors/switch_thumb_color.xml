@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#FFFFFF</color> <!-- Light background -->
+    <color name="colorPrimary">#000000</color>     <!-- Dark text -->
+    <color name="AccentColor">#1DCD9F</color>      <!-- Same accent -->
+</resources>
+
+

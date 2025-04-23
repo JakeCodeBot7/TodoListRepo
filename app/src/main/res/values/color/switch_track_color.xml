@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:color="#661DCD9F" android:state_checked="true"/> <!-- translucent accent -->
+        <item android:color="#444444"/> <!-- default gray track -->
+    </selector>
+</resources>
